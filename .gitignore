@@ -1,0 +1,6 @@
+# zes-darms
+node_modules/
+*.db
+.env
+dist/
+bun.lock
